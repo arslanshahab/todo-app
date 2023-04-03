@@ -1,11 +1,3 @@
-// task model
-// {
-//   id: number,
-//   title: string,
-//   isCompleted: boolean,
-//   createdAt: DateTime
-// }
-
 const tasksList = [];
 
 let isEditable = false;
